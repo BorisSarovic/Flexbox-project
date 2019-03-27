@@ -1,2 +1,5 @@
 # Flexbox-project
-CSS Flexbox
+
+Web design
+
+https://borissarovic.github.io/Flexbox-project/
